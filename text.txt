@@ -1,0 +1,12 @@
+
+The name of the file is: Most_calories.csv
+
+
+The file has 31 lines
+
+
+Column names are: 
+
+Food Item,Other Name,Calories/100g
+
+Food Item,Other Name,Calories/100g Nuts,Macadamia Nuts,718 Butter,Makhan,717 Pine Nuts,Chilgoza,673 Walnut,Akhrot,654
